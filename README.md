@@ -1,6 +1,6 @@
 # react-rally-17
 
-## Slides, talks, and links
+## Slides & talks
 
 - [unpkg](https://unpkg.com/)
     - [demos](https://github.com/unpkg/unpkg-demos)
@@ -35,9 +35,15 @@
     - [pure ui control](https://medium.com/@asolove/pure-ui-control-ac8d1be97a8d)
 - [elm](https://guide.elm-lang.org/)
 
-## Miscellaneous links
+## Other links
 
-- redux stuff
+- redux stuff from acemarke
     - [5 types of state](http://jamesknelson.com/5-types-react-application-state/)
     - [visual guide to state](https://daveceddia.com/visual-guide-to-state-in-react/)
     - [thunks](http://blog.isquaredsoftware.com/2017/01/idiomatic-redux-thoughts-on-thunks-sagas-abstraction-and-reusability/)
+- mjackson - [componentDidBlog](https://cdb.reacttraining.com/react-rally-recap-2286d3995834)
+- other attendee's notes:
+    - [jcmagsay](https://github.com/jcmagsay/rally-rally)
+    - [cberesford](https://github.com/cberesford/react-rally-2017)
+- recommended reading
+    - [constructing user interface](https://www.scribd.com/document/235638010/Ian-Horrocks-Constructing-the-User-Interface-Wit-BookZZ-org?doc_id=235638010&download=true&order=437003377) ([amazon](https://www.amazon.com/Constructing-User-Interface-Statecharts-Horrocks/dp/0201342782))
